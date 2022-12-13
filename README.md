@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cetuslapetus
-- 👀 I’m interested in Artificial Intelligence and data processing
+- 👋 Hi, I’m @cetuslapetus. Currently looking for a job in Data Analytics
+- 👀 Aspiring Data Scientist interested in Artificial Intelligence
 - 🌱 I’m currently learning about image processing using fourier transforms
 - 💞️ I’m looking to collaborate on content creation
 - 📫 How to reach me: shoot me an email at bapensam@uwaterloo.ca
